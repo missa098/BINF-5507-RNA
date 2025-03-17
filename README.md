@@ -1,1 +1,1 @@
-This repository stores my assignments for my Machine learning and AI for bioinformatics course. 
+This repository stores assignments for my Machine learning and AI for bioinformatics course. 
